@@ -6,7 +6,16 @@
         <description>Recent content in Categories on 阿强的Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>My dream is realiy</copyright><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>My dream is realiy</copyright>
+        <lastBuildDate>Thu, 07 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>弱点</title>
+        <link>http://localhost:1313/categories/%E5%BC%B1%E7%82%B9/</link>
+        <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/%E5%BC%B1%E7%82%B9/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Test</title>
         <link>http://localhost:1313/categories/test/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

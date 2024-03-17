@@ -7,7 +7,27 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>My dream is realiy</copyright>
-        <lastBuildDate>Thu, 07 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Blog完善计划</title>
+        <link>http://localhost:1313/p/blog%E5%AE%8C%E5%96%84%E8%AE%A1%E5%88%92/</link>
+        <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/blog%E5%AE%8C%E5%96%84%E8%AE%A1%E5%88%92/</guid>
+        <description>&lt;h2 id=&#34;外观美化&#34;&gt;外观美化&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 欢迎页面（打招呼）&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 排版（呼吸化）&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 加入模糊 (高斯)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;功能高级&#34;&gt;功能高级&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 评论区&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 自定义域名&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 高级图床&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>3D眩晕</title>
         <link>http://localhost:1313/p/3d%E7%9C%A9%E6%99%95/</link>
         <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
@@ -24,7 +44,7 @@
         <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/p/1/</guid>
-        <description>&lt;img src="http://localhost:1313/p/1/01.JPG" alt="Featured image of post 1" /&gt;&lt;h1 id=&#34;我也有自己的博客这是一件想想就很酷的事&#34;&gt;我也有自己的博客，这是一件想想就很酷的事！：）&lt;/h1&gt;
+        <description>&lt;img src="http://localhost:1313/p/1/01.jpg" alt="Featured image of post 1" /&gt;&lt;h1 id=&#34;我也有自己的博客这是一件想想就很酷的事&#34;&gt;我也有自己的博客，这是一件想想就很酷的事！：）&lt;/h1&gt;
 </description>
         </item>
         <item>
