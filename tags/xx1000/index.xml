@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Xx1000 on 阿强的Blog</title>
+        <link>http://localhost:1313/tags/xx1000/</link>
+        <description>Recent content in Xx1000 on 阿强的Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>My dream is realiy</copyright>
+        <lastBuildDate>Mon, 18 Sep 2023 07:44:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/xx1000/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>hello world</title>
+        <link>http://localhost:1313/0048/</link>
+        <pubDate>Mon, 18 Sep 2023 07:44:00 +0700</pubDate>
+        
+        <guid>http://localhost:1313/0048/</guid>
+        <description>&lt;img src="http://localhost:1313/img/xixi.png" alt="Featured image of post hello world" /&gt;&lt;h2 id=&#34;first-section&#34;&gt;first section&lt;/h2&gt;
+&lt;p&gt;Content of first section.
+&lt;a class=&#34;link&#34; href=&#34;DJI_0007-2.jpg&#34; &gt;1&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
