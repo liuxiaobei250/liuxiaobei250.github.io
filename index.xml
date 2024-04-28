@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>My dream is realiy</copyright>
-        <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>下班</title>
+        <link>http://localhost:1313/p/%E4%B8%8B%E7%8F%AD/</link>
+        <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/%E4%B8%8B%E7%8F%AD/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Blog完善计划</title>
         <link>http://localhost:1313/p/blog%E5%AE%8C%E5%96%84%E8%AE%A1%E5%88%92/</link>
         <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
@@ -33,7 +41,7 @@
         <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/p/3d%E7%9C%A9%E6%99%95/</guid>
-        <description>&lt;img src="http://localhost:1313/p/3d%E7%9C%A9%E6%99%95/1.png" alt="Featured image of post 3D眩晕" /&gt;&lt;p&gt;#今天玩了大疆飞行模拟器，开了一两把就感觉到脑子眩晕，
+        <description>&lt;img src="http://localhost:1313/1.png" alt="Featured image of post 3D眩晕" /&gt;&lt;p&gt;#今天玩了大疆飞行模拟器，开了一两把就感觉到脑子眩晕，
 以后每晚玩两把，习惯了就应该还好，
 失眠的时候玩一下 估计也可以提高睡眠质量了:)&lt;/p&gt;
 </description>
@@ -44,7 +52,7 @@
         <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/p/1/</guid>
-        <description>&lt;img src="http://localhost:1313/p/1/01.jpg" alt="Featured image of post 1" /&gt;&lt;h1 id=&#34;我也有自己的博客这是一件想想就很酷的事&#34;&gt;我也有自己的博客，这是一件想想就很酷的事！：）&lt;/h1&gt;
+        <description>&lt;img src="http://localhost:1313/01.jpg" alt="Featured image of post 1" /&gt;&lt;h1 id=&#34;我也有自己的博客这是一件想想就很酷的事&#34;&gt;我也有自己的博客，这是一件想想就很酷的事！：）&lt;/h1&gt;
 </description>
         </item>
         <item>
