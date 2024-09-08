@@ -2,57 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on 阿强的Blog</title>
-        <link>https://liuxiaobei250.github.io/post/</link>
+        <link>http://localhost:1313/post/</link>
         <description>Recent content in Posts on 阿强的Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>My dream is realiy</copyright>
-        <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://liuxiaobei250.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>下班</title>
-        <link>https://liuxiaobei250.github.io/p/%E4%B8%8B%E7%8F%AD/</link>
+        <link>http://localhost:1313/p/%E4%B8%8B%E7%8F%AD/</link>
         <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://liuxiaobei250.github.io/p/%E4%B8%8B%E7%8F%AD/</guid>
-        <description>&lt;img src="https://liuxiaobei250.github.io/p/%E4%B8%8B%E7%8F%AD/3.png" alt="Featured image of post 下班" /&gt;</description>
-        </item>
-        <item>
-        <title>Blog完善计划</title>
-        <link>https://liuxiaobei250.github.io/p/blog%E5%AE%8C%E5%96%84%E8%AE%A1%E5%88%92/</link>
-        <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://liuxiaobei250.github.io/p/blog%E5%AE%8C%E5%96%84%E8%AE%A1%E5%88%92/</guid>
-        <description>&lt;h2 id=&#34;外观美化&#34;&gt;外观美化&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 欢迎页面（打招呼）&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 排版（呼吸化）&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 加入模糊 (高斯)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;功能高级&#34;&gt;功能高级&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 评论区&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 自定义域名&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 高级图床&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+        <guid>http://localhost:1313/p/%E4%B8%8B%E7%8F%AD/</guid>
+        <description>&lt;img src="http://localhost:1313/3.png" alt="Featured image of post 下班" /&gt;</description>
         </item>
         <item>
         <title>3D眩晕</title>
-        <link>https://liuxiaobei250.github.io/p/3d%E7%9C%A9%E6%99%95/</link>
+        <link>http://localhost:1313/p/3d%E7%9C%A9%E6%99%95/</link>
         <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://liuxiaobei250.github.io/p/3d%E7%9C%A9%E6%99%95/</guid>
-        <description>&lt;img src="https://liuxiaobei250.github.io/p/3d%E7%9C%A9%E6%99%95/1.png" alt="Featured image of post 3D眩晕" /&gt;&lt;p&gt;#今天玩了大疆飞行模拟器，开了一两把就感觉到脑子眩晕，
+        <guid>http://localhost:1313/p/3d%E7%9C%A9%E6%99%95/</guid>
+        <description>&lt;img src="http://localhost:1313/p/3d%E7%9C%A9%E6%99%95/1.png" alt="Featured image of post 3D眩晕" /&gt;&lt;p&gt;#今天玩了大疆飞行模拟器，开了一两把就感觉到脑子眩晕，
 以后每晚玩两把，习惯了就应该还好，
 失眠的时候玩一下 估计也可以提高睡眠质量了:)&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>1</title>
-        <link>https://liuxiaobei250.github.io/p/1/</link>
+        <link>http://localhost:1313/p/1/</link>
         <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://liuxiaobei250.github.io/p/1/</guid>
+        <guid>http://localhost:1313/p/1/</guid>
         <description>&lt;h1 id=&#34;我也有自己的博客这是一件想想就很酷的事&#34;&gt;我也有自己的博客，这是一件想想就很酷的事！：）&lt;/h1&gt;
+</description>
+        </item>
+        <item>
+        <title>开始重启计划</title>
+        <link>http://localhost:1313/p/%E5%BC%80%E5%A7%8B%E9%87%8D%E5%90%AF%E8%AE%A1%E5%88%92/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/%E5%BC%80%E5%A7%8B%E9%87%8D%E5%90%AF%E8%AE%A1%E5%88%92/</guid>
+        <description>&lt;p&gt;##重新记录
+今天想到自己似乎很容易一腔热血,然后没两天又跳到其他兴趣爱好,例如:今天又开始UE4有所兴趣,这种雨露均沾的情况很容易让自己陷入无法对某一领域有所精通的情况,但我又并不想把这里当作一个打卡平台,所以以后还是单纯在这里写下对自己偶尔的阶段性成就标记,让自己不忘曾经为之兴奋的想法.mark!
+对了,立个小目标 今天开始进入web 以它为起点 [Getting started with the web] &lt;a class=&#34;link&#34; href=&#34;https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like#first_things_first_planning&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like#first_things_first_planning&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         
